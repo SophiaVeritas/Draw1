@@ -1,0 +1,8 @@
+C:\VisualStudioProjects\Drafting\Draw1\Draw1\obj\Debug\Draw1.exe
+C:\VisualStudioProjects\Drafting\Draw1\Draw1\obj\Debug\Draw1.pdb
+C:\VisualStudioProjects\Drafting\Draw1\Draw1\bin\Debug\Draw1.exe
+C:\VisualStudioProjects\Drafting\Draw1\Draw1\bin\Debug\Draw1.pdb
+C:\VisualStudioProjects\Drafting\Draw1\Draw1\obj\Debug\ResolveAssemblyReference.cache
+C:\VisualStudioProjects\Drafting\Draw1\Draw1\obj\Debug\Draw1.Form1.resources
+C:\VisualStudioProjects\Drafting\Draw1\Draw1\obj\Debug\Draw1.Properties.Resources.resources
+C:\VisualStudioProjects\Drafting\Draw1\Draw1\obj\Debug\Draw1.csproj.GenerateResource.Cache

@@ -1,0 +1,24 @@
+Y = mx + b
+
+
+Normal = -1/m
+
+Slop -> Angle
+Angle -> Slope
+
+
+
+Line Intersection
+y1 = m1x1 + b1
+y2 = m2x2 + b2
+
+y1==y2 && x1 ==x2
+
+Then
+m1x1 + b1 == m2x2 + b2
+m1x1 - m2x2 = b2 - b1
+x(m1-m2) = b2 - b1
+ax = (b2 - b1)/(m1-m2) **NOTE: If m1==m2 (DIVIDE BY ZERO ERROR) Also they are parallel
+
+Then apply found x to fist equ to get y
+ay = m1x + b1;
