@@ -1,5 +1,5 @@
 # Draw1
-Uses C# and GDI+ for testing possible use in future CAD programs.
+Uses C# and GDI+ for testing possible use in future CAD programs. (SCREEN SHOTS PROVIDED) 
 
 This was a rainy day project where the goal was to only spend an hour or two. This is a good refrence for some one just learning. It provides a chance to see drawing simple primatives, lines, circles, color changes, brushes, linear gradients, writing strings, simple collision detection of points and lines. 
 
